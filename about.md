@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+I am a full stack developer, an agile enthusiast and agile archictect.
+I work as a freelancer and try to coach my teams in software development best-practices, devops-culture and in an agile mindset.
+I have a wife, two children und I life close to Rosenheim in Germany.
